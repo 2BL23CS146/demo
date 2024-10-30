@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 welcome to git lab
+=======
+exersize
+
+>>>>>>> 4c720de6f35a5623b655d8bb084bb89d271da7d1
